@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Has-AProjectCarDesigner.iml" filepath="$PROJECT_DIR$/Has-AProjectCarDesigner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Has-ASpacecraftOn-boardComputer/Has-ASpacecraftOn-boardComputer.iml" filepath="$PROJECT_DIR$/Has-ASpacecraftOn-boardComputer/Has-ASpacecraftOn-boardComputer.iml" />
+    </modules>
+  </component>
+</project>
